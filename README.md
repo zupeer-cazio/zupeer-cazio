@@ -1,7 +1,7 @@
 ## Hi there! 👋
 
 <h1 align="center">Hi 👋, I'm Subeer Abdi Mahamed (Cazio)</h1>
-<h3 align="center">AI & Machine Learning Enthusiast | Lifelong Learner | Future Data Scientist</h3>
+<h3 align="center">AI & Machine Learning Enthusiast | Lifelong Learner | Future AI Enigneer</h3>
 
 
 ## About Me
